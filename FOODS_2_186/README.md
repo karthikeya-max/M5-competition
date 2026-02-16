@@ -23,5 +23,3 @@ This series exhibits strong intermittent demand behavior, with a high proportion
 ## Contents of This Folder
 
 - Time series plot  
-- Forecast vs actual comparison plots  
-- Accuracy metric comparison (RMSE, MAE, MASE)  
