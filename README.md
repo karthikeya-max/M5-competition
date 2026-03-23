@@ -37,9 +37,7 @@ Using multiple metrics allows for a more comprehensive assessment of forecast ac
 
 The repository includes:
 
-- Visualizations of selected intermittent demand series  
-- Forecast vs. actual comparisons  
-- Accuracy metric comparisons across models  
+- Visualizations of selected intermittent demand series   
 
 The results illustrate the challenges of forecasting intermittent demand and highlight differences in model performance under sparse data conditions.
 
