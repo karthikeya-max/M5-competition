@@ -31,5 +31,4 @@ After cleaning structural gaps, the zero proportion decreases, indicating improv
 ## Contents of This Folder
 
 - Time series visualization  
-- Forecast vs actual comparison plots  
-- Accuracy metrics (RMSE, MAE, MASE)  
+
